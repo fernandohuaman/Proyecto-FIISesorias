@@ -7,7 +7,7 @@ Miembros del proyecto
 - Contreras Challco Victor Angel
 - Carcasi Ticlahuanca Ronald Daniel
 - Huamán Santamaria Fernando Ulises
-- 
+
 Se hizo uso de las siguientes herramientas y lenguajes de programación
 
 Frontend: HTML, CSS
